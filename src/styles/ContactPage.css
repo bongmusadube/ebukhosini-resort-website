@@ -1,0 +1,18 @@
+.contact {
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .contact .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .contact h2 {
+    font-size: 2em;
+  }
+  
+  .contact p {
+    font-size: 1.2em;
+  }
+  
